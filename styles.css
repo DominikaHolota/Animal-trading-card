@@ -1,0 +1,43 @@
+/* add your CSS here */
+
+* {
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+
+.container {
+    width: 300px;
+    border: 1px solid #cacaca;
+    padding: 15px;
+    margin: 10px;
+    box-shadow: 10px 10px 5px 0px rgba(236, 236, 236, 0.75);
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.info {
+    border: 1px solid #cacaca;
+    padding: 15px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.label {
+    font-weight: bold;
+}
+
+.intresting-facts {
+    margin-bottom: 25px;
+    font-style: italic;
+}
+
+.brief-description {
+    margin-top: 25px;
+    margin-bottom: 20px;
+}
